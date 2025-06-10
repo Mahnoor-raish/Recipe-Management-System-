@@ -59,12 +59,4 @@ recipe.exe
 
 C++
 
-File I/O (recipes.txt)
-
-
-
----
-
-Yeh simple aur clear README hai. Aap "Commit changes..." dabakar isey GitHub par save kar sakte hain. Agar aap chahein to mai isay aur zyada attractive bana sakta hoon (icons, badges, etc.).
-
-# Recipe-Management-System-
+File I/O (recipes.txt
